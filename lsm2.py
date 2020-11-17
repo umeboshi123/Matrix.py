@@ -14,7 +14,7 @@ for i in range(n):
             a[i][i2]+=pow(a1[j],p)
 
 for i in range(n):
-    for j in range(len()):
+    for j in range(len(b1)):
         b[i]+=pow(a1[j],n-1-i)*b1[j]
 
 a=np.array(a)
